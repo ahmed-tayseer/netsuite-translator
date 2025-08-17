@@ -3,5 +3,4 @@
   <app appid="mhiiidjdlcohgojojocgomhkdhpbpbnl">
     <updatecheck codebase="https://github.com/ahmed-tayseer/netsuite-translator/blob/master/netsuite-translator.crx" version="0.1.0" />
   </app>
-
 </gupdate>
